@@ -13,7 +13,7 @@
   //$con = mysqli_connect('db4free.net', 'root', '', 'awesome_shop'); //Localhost Database
     // $con = mysqli_connect('localhost', 'root', '', 'awesome_shop');
 
-   $con = mysqli_connect('161.35.103.171', 'virak', 'VIRAKseam33@gic', 'awesome_shop'); //Localhost Database
+   $con = mysqli_connect('68.183.118.1', 'virak', 'VIRAKseam33@gic', 'awesome_shop'); //Localhost Database
   
     
     $result = mysqli_query($con, $sql);
